@@ -21,4 +21,5 @@ Aplicações otimizadas para performance e acessibilidade.
 Código limpo, reutilizável e fácil de manter.
 
 🔎 Objetivo
+<br>
 Estou sempre em busca de aprender novas tecnologias e aplicar soluções criativas em projetos desafiadores. Meu portfólio é um reflexo do meu aprendizado contínuo e do meu compromisso em evoluir como desenvolvedor full-stack.
